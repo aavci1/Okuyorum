@@ -224,13 +224,13 @@
                     <toolbarItems>
                         <barButtonItem systemItem="refresh" id="4Xb-Fn-2jj">
                             <connections>
-                                <action selector="nextTapped:" destination="2J5-C3-3o2" id="vtB-s0-g4a"/>
+                                <action selector="next" destination="2J5-C3-3o2" id="TD8-DY-j1z"/>
                             </connections>
                         </barButtonItem>
                         <barButtonItem style="plain" systemItem="flexibleSpace" id="60Q-Jw-Rcv"/>
                         <barButtonItem image="Microphone" id="vuW-IH-Pd7">
                             <connections>
-                                <action selector="speakTapped:" destination="2J5-C3-3o2" id="rWf-De-HGk"/>
+                                <action selector="speak" destination="2J5-C3-3o2" id="J8s-ek-uLS"/>
                             </connections>
                         </barButtonItem>
                     </toolbarItems>
